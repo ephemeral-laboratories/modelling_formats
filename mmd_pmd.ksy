@@ -3,7 +3,7 @@ meta:
   title: MMD model data (older format)
   application: MikuMikuDance
   file-extension: pmd
-  encoding: shift_jis
+  encoding: Shift_JIS
   endian: le
   license: WTFPL
 
